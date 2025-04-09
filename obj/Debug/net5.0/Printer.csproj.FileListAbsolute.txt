@@ -1,0 +1,15 @@
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Printer.exe
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Printer.deps.json
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Printer.runtimeconfig.json
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Printer.runtimeconfig.dev.json
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Printer.dll
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Printer.pdb
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Printer.AssemblyInfoInputs.cache
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Printer.AssemblyInfo.cs
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Printer.csproj.CoreCompileInputs.cache
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Printer.dll
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\Printer.dll
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Printer.pdb
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Printer.genruntimeconfig.cache
+D:\New\Old\Code Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Printer.dll
